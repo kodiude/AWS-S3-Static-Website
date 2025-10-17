@@ -26,4 +26,4 @@ This project is part of my hands-on AWS learning journey, focused on building fr
 ```text
 Browser → AWS CloudFront (optional) → Amazon S3 → Website Files (HTML, CSS, JS)
 
-⚠️ This project was deployed on AWS S3 and later decommissioned to manage free-tier usage.
+
