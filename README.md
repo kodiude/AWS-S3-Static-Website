@@ -1,7 +1,7 @@
  # 🌐 AWS S3 Static Portfolio Website  
 
 **Author:** Kodi Ude  
-**Live Demo:** [https://kodi-portfolio-site.s3-website-us-west-1.amazonaws.com](https://kodi-portfolio-site.s3-website-us-west-1.amazonaws.com)  
+**Live Demo:** [https://kay-u-portfolio.s3.us-east-2.amazonaws.com/index.html](https://kay-u-portfolio.s3.us-east-2.amazonaws.com/index.html)  
 
 ---
 
