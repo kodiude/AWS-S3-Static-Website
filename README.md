@@ -6,7 +6,7 @@
 ---
 
 ## 📖 Overview  
-This project demonstrates how to host a **static website on AWS** using **Amazon S3** and **CloudFront**.  
+This project demonstrates how to host a **static website on AWS** using **Amazon S3** and **IAM**.  
 The site serves as my personal portfolio — showcasing my background, skills, and AWS cloud projects.  
 
 This project is part of my hands-on AWS learning journey, focused on building free-tier, portfolio-ready cloud solutions.
